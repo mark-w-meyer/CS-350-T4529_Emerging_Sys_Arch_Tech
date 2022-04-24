@@ -1,0 +1,704 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 1860. 1011.]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 4704
+>>
+stream
+0.200025 w
+0 G
+q
+1. 0. 0. -1. 0. 1011. cm
+q
+1. 0. 0. 1. 0. 0. cm
+1. w
+0. g
+q
+1. 0. 0. 1. 0. 0. cm
+0. 0. 1860. 1011. re
+W
+n
+q
+q
+1. 0. 0. 1. 0. 0. cm
+25. 25. m
+1834.1 25. l
+1834.1 985.968 l
+25. 985.968 l
+h
+W
+n
+1. 0. 0. 1. 0. 0. cm
+q
+q
+q
+q
+0.2 0.4 0.6 RG
+10. M
+2.5 0. 0. 2.5 -1111.84112 -241.5625 cm
+479.0162 266.14002 m
+626.13959 346.06193 l
+S
+Q
+q
+/GS1 gs
+q
+-1.64759 -0.8950222915263581 0.8950222915263581 -1.64759 460.58079 627.43455 cm
+q
+1. 0. 0. 1. 0. 0. cm
+/Xo1 Do
+Q
+Q
+Q
+Q
+q
+q
+q
+q
+BT
+/F1 12 Tf
+13.8 TL
+0. g
+2.19679 1.19336 1.19336 -2.19679 158.94616 509.0984 Tm
+(taskPeriodGCD) Tj
+ET
+Q
+q
+BT
+/F1 12 Tf
+13.8 TL
+0. g
+2.19679 1.19336 1.19336 -2.19679 106.69555 531.92538 Tm
+(initialized in timer as ) Tj
+ET
+Q
+q
+BT
+/F1 12 Tf
+13.8 TL
+0. g
+2.19679 1.19336 1.19336 -2.19679 105.71982 582.60642 Tm
+(greatest common) Tj
+ET
+Q
+q
+BT
+/F1 12 Tf
+13.8 TL
+0. g
+2.19679 1.19336 1.19336 -2.19679 41.74942 599.06685 Tm
+(divisor of all task periods) Tj
+ET
+Q
+Q
+Q
+Q
+q
+q
+0.2 0.4 0.6 RG
+10. M
+2.5 0. 0. 2.5 -1111.84112 -241.5625 cm
+700.76004 306.03736 m
+607.5 186.25 l
+781.78634 205.625 l
+705.20158 302.3145 l
+S
+Q
+q
+/GS1 gs
+q
+1.16418 -1.4698 1.4698 1.16418 646.16513 520.53344 cm
+q
+1. 0. 0. 1. 0. 0. cm
+/Xo1 Do
+Q
+Q
+Q
+Q
+q
+q
+q
+q
+BT
+/F1 12 Tf
+13.8 TL
+0. g
+2.48469 0.2762175376785756 0.2762175376785756 -2.48469 491.9151 168.11203 Tm
+(add tasksPeriodGCD) Tj
+ET
+Q
+q
+BT
+/F1 12 Tf
+13.8 TL
+0. g
+2.48469 0.2762175376785756 0.2762175376785756 -2.48469 486.9359 212.83571 Tm
+(to tasks elapsed time) Tj
+ET
+Q
+Q
+Q
+Q
+q
+q
+0.2 0.4 0.6 RG
+10. M
+2.5 0. 0. 2.5 -1111.84112 -241.5625 cm
+782.5 387. m
+983.375 387. l
+S
+Q
+q
+/GS1 gs
+q
+-1.875 0. 0. -1.875 1354.64556 725.9375 cm
+q
+1. 0. 0. 1. 0. 0. cm
+/Xo1 Do
+Q
+Q
+Q
+Q
+q
+q
+q
+q
+BT
+/F1 12 Tf
+13.8 TL
+0. g
+2.5 0. 0. -2.5 971.27656 765.9375 Tm
+(tasks elapsed time) Tj
+ET
+Q
+q
+BT
+/F1 12 Tf
+13.8 TL
+0. g
+2.5 0. 0. -2.5 972.08955 810.9375 Tm
+(>= any task period) Tj
+ET
+Q
+Q
+Q
+Q
+q
+q
+0.2 0.4 0.6 RG
+10. M
+2.5 0. 0. 2.5 -1111.84112 -241.5625 cm
+1057.11096 467.0122 m
+875.875 467.0122 l
+718.26404 467.0122 l
+S
+Q
+q
+/GS1 gs
+q
+1.875 0. 0. 1.875 675.76982 925.96799 cm
+q
+1. 0. 0. 1. 0. 0. cm
+/Xo1 Do
+Q
+Q
+Q
+Q
+q
+q
+q
+BT
+/F1 12 Tf
+13.8 TL
+0. g
+2.5 0.0000000000000003 0.0000000000000003 -2.5 845.26223 965.96799 Tm
+(return to next iteration in task scheduler loop) Tj
+ET
+Q
+Q
+Q
+q
+q
+0.2 0.4 0.6 RG
+10. M
+2.5 0. 0. 2.5 -1111.84112 -241.5625 cm
+1068.82098 306.01535 m
+1042.125 220.625 l
+1172.375 220.625 l
+1073.88219 303.00868 l
+S
+Q
+q
+/GS1 gs
+q
+1.43821 -1.20298 1.20298 1.43821 1566.69028 521.12348 cm
+q
+1. 0. 0. 1. 0. 0. cm
+/Xo1 Do
+Q
+Q
+Q
+Q
+q
+q
+q
+q
+BT
+/F1 12 Tf
+13.8 TL
+0. g
+2.5 0. 0. -2.5 1438.27454 65. Tm
+(state machine executes so:) Tj
+ET
+Q
+q
+BT
+/F1 12 Tf
+13.8 TL
+0. g
+2.5 0. 0. -2.5 1489.96887 110. Tm
+(check button press,) Tj
+ET
+Q
+q
+BT
+/F1 12 Tf
+13.8 TL
+0. g
+2.5 0. 0. -2.5 1500.80872 155. Tm
+(read temperature,) Tj
+ET
+Q
+q
+BT
+/F1 12 Tf
+13.8 TL
+0. g
+2.5 0. 0. -2.5 1508.29407 200. Tm
+(update set-point,) Tj
+ET
+Q
+q
+BT
+/F1 12 Tf
+13.8 TL
+0. g
+2.5 0. 0. -2.5 1526.11389 245. Tm
+(display UART,) Tj
+ET
+Q
+q
+BT
+/F1 12 Tf
+13.8 TL
+0. g
+2.5 0. 0. -2.5 1536.64612 290. Tm
+(update LED,) Tj
+ET
+Q
+Q
+Q
+Q
+q
+q
+0.82 0.87 0.93 rg
+0. G
+10. M
+2.5 0. 0. 2.5 -1111.84112 -241.5625 cm
+476.6875 267.5625 m
+475.20323 267.5625 474. 266.35927 474. 264.875 c
+474. 263.39073 475.20323 262.1875 476.6875 262.1875 c
+478.17177 262.1875 479.375 263.39073 479.375 264.875 c
+479.375 266.35927 478.17177 267.5625 476.6875 267.5625 c
+h
+B
+Q
+Q
+q
+q
+0.82 0.87 0.93 rg
+0. G
+10. M
+2.5 0. 0. 2.5 -1111.84112 -241.5625 cm
+701.5 468. m
+656.76494 468. 620.5 431.73506 620.5 387. c
+620.5 342.26494 656.76494 306. 701.5 306. c
+746.23506 306. 782.5 342.26494 782.5 387. c
+782.5 431.73506 746.23506 468. 701.5 468. c
+h
+B
+Q
+Q
+q
+q
+q
+q
+BT
+/F1 12 Tf
+13.8 TL
+0. g
+2.5 0. 0. -2.5 583.54951 623.4375 Tm
+(Initialize:) Tj
+ET
+Q
+q
+BT
+/F1 12 Tf
+13.8 TL
+0. g
+2.5 0. 0. -2.5 605.22187 668.4375 Tm
+(state,) Tj
+ET
+Q
+q
+BT
+/F1 12 Tf
+13.8 TL
+0. g
+2.5 0. 0. -2.5 596.04463 713.4375 Tm
+(period,) Tj
+ET
+Q
+q
+BT
+/F1 12 Tf
+13.8 TL
+0. g
+2.5 0. 0. -2.5 552.69258 758.4375 Tm
+(elapsed time,) Tj
+ET
+Q
+q
+BT
+/F1 12 Tf
+13.8 TL
+0. g
+2.5 0. 0. -2.5 521.85029 803.4375 Tm
+(state machine call) Tj
+ET
+Q
+q
+BT
+/F1 12 Tf
+13.8 TL
+0. g
+2.5 0. 0. -2.5 561.02754 848.4375 Tm
+(of each task) Tj
+ET
+Q
+Q
+Q
+Q
+q
+q
+0.82 0.87 0.93 rg
+0. G
+10. M
+2.5 0. 0. 2.5 -1111.84112 -241.5625 cm
+1069.125 468. m
+1024.38994 468. 988.125 431.73506 988.125 387. c
+988.125 342.26494 1024.38994 306. 1069.125 306. c
+1113.86006 306. 1150.125 342.26494 1150.125 387. c
+1150.125 431.73506 1113.86006 468. 1069.125 468. c
+h
+B
+Q
+Q
+q
+q
+q
+q
+BT
+/F1 12 Tf
+13.8 TL
+0. g
+2.5 0. 0. -2.5 1436.74531 713.4375 Tm
+(call state machine,) Tj
+ET
+Q
+q
+BT
+/F1 12 Tf
+13.8 TL
+0. g
+2.5 0. 0. -2.5 1399.23066 758.4375 Tm
+(reset tasks elapsed time) Tj
+ET
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/ca 1.
+/CA 0.
+>>
+endobj
+20 0 obj
+<<
+/ca 1.
+/CA 1.
+>>
+endobj
+21 0 obj
+<<
+/Type /XObject
+/Subtype /Form
+/BBox [-2.5 -10. 7.5 10.]
+/Matrix [1. 0. 0. 1. 0. 0.]
+/Length 97
+>>
+stream
+q
+/GS2 gs
+0.2 0.4 0.6 rg
+0.2 0.4 0.6 RG
+10. M
+1. 0. 0. 1. 0. 0. cm
+5. -5. m
+0. 0. l
+5. 5. l
+h
+B
+Q
+endstream
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/ExtGState <<
+/GS1 19 0 R
+/GS2 20 0 R
+>>
+/XObject <<
+/Xo1 21 0 R
+>>
+>>
+endobj
+22 0 obj
+<<
+/Producer (jsPDF 2.3.1)
+/CreationDate (D:20220417130755-04'00')
+>>
+endobj
+23 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 24
+0000000000 65535 f 
+0000004878 00000 n 
+0000006999 00000 n 
+0000000015 00000 n 
+0000000122 00000 n 
+0000004935 00000 n 
+0000005060 00000 n 
+0000005190 00000 n 
+0000005323 00000 n 
+0000005460 00000 n 
+0000005583 00000 n 
+0000005712 00000 n 
+0000005844 00000 n 
+0000005980 00000 n 
+0000006108 00000 n 
+0000006235 00000 n 
+0000006364 00000 n 
+0000006497 00000 n 
+0000006599 00000 n 
+0000006695 00000 n 
+0000006731 00000 n 
+0000006767 00000 n 
+0000007300 00000 n 
+0000007386 00000 n 
+trailer
+<<
+/Size 24
+/Root 23 0 R
+/Info 22 0 R
+/ID [ <DCF5CAF2E3C535AEF454E189B52B78D1> <DCF5CAF2E3C535AEF454E189B52B78D1> ]
+>>
+startxref
+7490
+%%EOF
